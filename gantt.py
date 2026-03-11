@@ -5,17 +5,17 @@ import datetime as dt
 # WBS DATA (your project data)
 # -----------------------------
 tasks = [
-    ("Scope Document", "2026-01-10", "2026-01-25"),
-    ("SRC Document", "2026-01-25", "2026-02-05"),
-    ("SDS Document", "2026-02-05", "2026-02-10"),
-    ("Module 1: Problem Modeling & Configuration", "2026-02-10", "2026-03-06"),
-    ("Module 2: Classical AI Solver Engine", "2026-03-06", "2026-03-30"),
-    ("Module 3: Quantum Simulation Engine", "2026-03-30", "2026-04-25"),
-    ("Module 4: Hybrid Execution Controller", "2026-04-25", "2026-05-15"),
-    ("Module 5: Comparative Analytics Dashboard", "2026-09-05", "2026-09-25"),
-    ("Module 6: Educational Walkthrough & Documentation", "2026-09-25", "2026-10-20"),
-    ("Final Documentation & Submission Prep", "2026-10-20", "2026-10-30"),
-    ("Final Presentation & Project Closure", "2026-10-30", "2026-11-10"),
+    ("Custom Simulation Kernel", "2026-02-02", "2026-02-22"),
+    ("SFOD Model Comparison Suite", "2026-02-26", "2026-03-22"),
+    ("Educational Quantum Simulator", "2026-03-20", "2026-04-07"),
+    ("Real-World Data & Architecture Recommender", "2026-04-04", "2026-04-26"),
+    ("Classical to Quantum Logic Transformer", "2026-04-22", "2026-05-20"),
+    ("Neural Angle Optimizer", "2026-05-14", "2026-06-02"),
+    ("QNN Converter", "2026-06-03", "2026-06-13"),
+    ("Interactive Performance Dashboard", "2026-06-15", "2026-06-27"),
+    ("Integration Testing", "2026-06-28", "2026-07-12"),
+    ("Final Documentation & Submission Prep", "2026-09-29", "2026-10-19"),
+    ("Final Presentation & Project Closure", "2026-10-20", "2026-11-08"),
 ]
 
 # Convert string dates to datetime
